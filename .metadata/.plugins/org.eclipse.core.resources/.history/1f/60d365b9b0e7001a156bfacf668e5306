@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Flight CheckIn Application</title>
+</head>
+<body>
+
+<h2>Welcome to the Flight CheckIn Application:</h2>
+Click here to start checkIn - <a href="showStartCheckin">StartCheckIn</a><br/>
+
+</body> 
+</html>

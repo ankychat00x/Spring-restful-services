@@ -1,0 +1,36 @@
+package ankita.flight.util;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+import org.springframework.stereotype.Component;
+
+import com.itextpdf.text.Document;
+import com.itextpdf.text.pdf.PdfWriter;
+
+import ankita.flight.entities.Reservation;
+
+
+@Component
+public class PDFGenerator {
+
+
+	public void generateItinerary(Reservation reservation, String filePath) {
+
+		Document document = new Document();
+
+		try {
+			PdfWriter.getInstance(document, new FileOutputStream(filePath));
+
+			document.open();
+
+
+		} catch (FileNotFoundException | DocumentException e) {
+		
+		}
+
+	}
+
+
+
+}

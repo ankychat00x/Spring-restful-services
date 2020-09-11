@@ -1,0 +1,5 @@
+package com.ankita.flightservices.integration;
+
+public class CreateReservationRequest {
+
+}

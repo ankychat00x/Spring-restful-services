@@ -1,0 +1,5 @@
+package ankita.flight.checkin.controllers;
+
+public class CheckInController {
+
+}

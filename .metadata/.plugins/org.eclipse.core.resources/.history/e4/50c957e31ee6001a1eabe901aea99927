@@ -1,0 +1,28 @@
+package ankita.flight.checkin.integration;
+
+import org.springframework.web.client.RestTemplate;
+
+import ankita.flight.checkin.integration.dto.Reservation;
+import ankita.flight.checkin.integration.dto.ReservationUpdateRequest;
+
+public class ReservationRestClientImpl implements ReservationRestClient {
+
+	@Override
+	public Reservation findReservation(Long id) {
+		// TODO Auto-generated method stub
+		RestTemplate restTemplate = new RestTemplate();
+		//invokes http get method
+		Reservation reservation = restTemplate.getForObject("http://localhost:8080/flightreservation/reservations/"+id, Reservation.class);
+
+		return reservation;
+	}
+
+	@Override
+	public Reservation updateReservation(ReservationUpdateRequest request) {
+		// TODO Auto-generated method stub
+		RestTemplate restTemplate = new RestTemplate();
+		restTemplate.postForObject("", request, Reservation.class);
+		return null;
+	}
+
+}

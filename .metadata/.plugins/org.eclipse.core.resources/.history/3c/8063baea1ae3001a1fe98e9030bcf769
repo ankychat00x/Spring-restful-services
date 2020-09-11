@@ -1,0 +1,14 @@
+package ankita.flight.services;
+
+import ankita.flight.dto.ReservationRequest;
+import ankita.flight.entities.Reservation;
+
+public class ReservationServiceImpl implements ReservationService {
+
+	@Override
+	public Reservation bookFlight(ReservationRequest request) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

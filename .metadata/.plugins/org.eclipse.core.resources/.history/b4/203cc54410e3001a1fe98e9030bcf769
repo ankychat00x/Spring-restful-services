@@ -1,0 +1,5 @@
+package ankita.flight.services;
+
+public interface ReservationService {
+
+}

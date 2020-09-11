@@ -1,0 +1,14 @@
+package com.ankita.flightservices.entities;
+
+import java.sql.Timestamp;
+import java.util.Date;
+
+public class Flight {
+
+	private String flightNumber;
+	private String operatingAirlines;
+	private String departureCity;
+	private String arrivalCity;
+	private Date dateOfDeparture;
+	private Timestamp estimatedDepartureTime;
+}

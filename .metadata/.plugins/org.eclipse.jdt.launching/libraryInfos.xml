@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03" version="1.8.0_212">
+<bootpath>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\resources.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\rt.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\jsse.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\jce.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\charsets.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\jfr.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre" version="1.8.0_212">
+<bootpath>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\resources.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\rt.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\jsse.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\jce.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\charsets.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\jfr.jar"/>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\ankyc\Downloads\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\jdk8u212-b03\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

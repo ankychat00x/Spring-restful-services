@@ -1,0 +1,24 @@
+package com.ankita.flightservices.integration;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.ankita.flightservices.entities.Flight;
+import com.ankita.flightservices.repos.FlightRepository;
+
+@Controller
+public class ReservationRestController {
+
+	@Autowired
+	FlightRepository flightRepository;
+	
+	@RequestMapping(value="/flights",method=RequestMethod.GET)
+	public List<Flight> findFlights(){
+		
+		return null;
+	}
+}

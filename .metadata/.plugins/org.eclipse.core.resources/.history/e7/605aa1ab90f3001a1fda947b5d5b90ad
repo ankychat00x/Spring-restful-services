@@ -1,0 +1,14 @@
+package com.ankita.flightservices.integration;
+
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class ReservationRestController {
+
+	public List<Flight> findFlights(){
+		
+		return null;
+	}
+}

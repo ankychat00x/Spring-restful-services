@@ -1,0 +1,5 @@
+package ankita.flight.dto;
+
+public class ReservationRequest {
+
+}

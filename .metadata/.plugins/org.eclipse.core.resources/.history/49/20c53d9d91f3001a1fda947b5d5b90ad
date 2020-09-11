@@ -1,0 +1,5 @@
+package com.ankita.flightservices.dto;
+
+public class CreateReservationRequest {
+
+}

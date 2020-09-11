@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1596615656245">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1596615656245" name\="jdk8u212-b03" path\="C\:\\Users\\ankyc\\Downloads\\OpenJDK8U-jdk_x64_windows_hotspot_8u212b03\\jdk8u212-b03"/>\r\n</vmType>\r\n</vmSettings>\r\n

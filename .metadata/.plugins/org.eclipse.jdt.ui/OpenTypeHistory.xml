@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=locationweb/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ankita.location.util{EmailUtil.java[EmailUtil" modifiers="513" timestamp="1596962766802"/>
+<typeInfo handle="=locationweb/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ankita.location.util{ReportUtil.java[ReportUtil" modifiers="513" timestamp="1597499475411"/>
+<typeInfo handle="=flightreservation/C:\/Users\/ankyc\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.3.3.RELEASE\/spring-data-jpa-2.3.3.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.3.3.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1597566925316"/>
+<typeInfo handle="=flightreservation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;ankita.flight.services{ReservationService.java[ReservationService" modifiers="513" timestamp="1597946960103"/>
+<typeInfo handle="=flightcheckin/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;ankita.flight.checkin.integration{ReservationRestClient.java[ReservationRestClient" modifiers="513" timestamp="1598019005195"/>
+</typeInfoHistroy>
